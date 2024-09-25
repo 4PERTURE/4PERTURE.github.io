@@ -67,7 +67,7 @@ body {
 .disclaimer a {
     color: white;
 }
-.mediawarning a {
+.mediawarning {
     background-color: red;
     color: white;
 }
